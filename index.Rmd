@@ -35,9 +35,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Comunidades y ecosistemas
 
-* Je je, tremendo lío, definiciones arbitrarias.
+* Je je, __tremendo lío__, definiciones arbitrarias.
 
-* Las comunidades y los ecosistemas son los niveles de organización biótica y ecológica más altos, pero comúnmente se deifnen de forma arbitraria.
+* Las comunidades y los ecosistemas son los niveles de organización biótica y ecológica __más altos__, pero comúnmente se deifnen de forma arbitraria.
 
 ## Comunidades y ecosistemas (cont.)
 
@@ -49,12 +49,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Dos atributos son recurrentemente estudiados en la comunidad: __estructura__ (atributos estáticos) y __funciones__ (atributos dinámicos).
 
-* Los límites se establecen arbitrariamente.
+* Los límites se establecen __arbitrariamente__, aunque los __rasgos topográficos__ son usados también.
 
 ## Comunidades y ecosistemas (cont.)
 
 ### Ecosistemas
 
+* Incluye no sólo las especies que habitan en el lugar, sino también los __rasgos/atributos/características físicas__ del mismo, así como las interacciones entre los componentes bióticos y abióticos del sistema.
+
+* __Los ecosistemas no están aislados__, aunque lo parezcan. El ecosistema más grande y aislado del resto es la biosfera, pero dentro de ella, es difícil separar subunidades que se consideren absolutamente aisladas.
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas
+
+* Cada especie tiene un nicho, y el cómo se organizan para dar lugar a asociaciones complejas entre poblaciones es el objetivo último de la ecología.
+
+* Dos rasgos son fundamentales de las especies que influyen en la comunidad son su __masa/volumen corporal__ y su __condición trófica__.
+
+* A __mayor tamaño/masa, mayor consumo__ energético. La tasa de metabolismo basal es clave ($m=cM^{0.75}$). Hay más especies de animales pequeños, y son igualmente más abundantes, que grandes. Ver figuras 5.2 y 5.3, páginas 125 y 126 de @lomolino2006biogeography.
 
 
 ## Referencias
