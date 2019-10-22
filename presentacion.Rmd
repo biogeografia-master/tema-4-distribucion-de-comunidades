@@ -1,6 +1,6 @@
 ---
 title: "Tema 4. Distribución de comunidades"
-output: ioslides_presentation
+output: revealjs::revealjs_presentation
 ---
 
 ```{r setup, include=FALSE}
