@@ -12,3 +12,12 @@ knitr::opts_chunk$set(echo = FALSE)
 * **Distribución y abundancia** de una especie siempre resultan afectados por otras especies.
 
 * Debido a las interacciones entre organismos, normalmente las distribuciones de especies suelen ser **mutuamente excluyentes a escala local**, o tienden a ocurrir de forma conjunta en complejas comunidades ecológicas.
+
+* Las comunidades vistas como un superorganismo se atribuye a **Clements** (especies como células).
+
+* En contraste, la comunidad vista como unida discreta e integrada, se atribuye a **Gleason**.
+
+* Ambas corrientes hicieron aportes relevantes.
+    * Las comunidades exhiben atributos como los de un individuo ("productividad primaria total").
+    * Por otra parte 
+
