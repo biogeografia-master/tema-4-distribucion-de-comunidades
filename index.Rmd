@@ -1,7 +1,8 @@
 ---
 title: "Tema 4. Distribución de comunidades"
 output: revealjs::revealjs_presentation
-
+bibliography: biblio.bib
+csl: apa.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -29,13 +30,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Ejemplo: ...
 
-## Introducción (cont.)
-
+* Consultar mapas modelos idealizados, pags. 15 y 39 de @bailey2014ecoregions.
 
 
 ## Comunidades y ecosistemas
 
 * Je je, tremendo lío, definiciones arbitrarias.
+
+* Las comunidades y los ecosistemas son los niveles de organización biótica y ecológica más altos, pero comúnmente se deifnen de forma arbitraria.
+
+## Comunidades y ecosistemas (cont.)
+
+### Comunidad
+
+* La comunidad consiste en el __conjunto de especies que viven en el mismo lugar__.
+
+* Un miembro de la comunidad puede definirse __taxonómicamente__ o por medio de atributos/rasgos __funcionales__ (e.g. formas de vida, dieta).
+
+* Dos atributos son recurrentemente estudiados en la comunidad: __estructura__ (atributos estáticos) y __funciones__ (atributos dinámicos).
+
+* Los límites se establecen arbitrariamente.
+
+## Comunidades y ecosistemas (cont.)
+
+### Ecosistemas
+
 
 
 ## Referencias
