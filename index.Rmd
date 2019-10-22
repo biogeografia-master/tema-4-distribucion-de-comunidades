@@ -1,6 +1,7 @@
 ---
 title: "Tema 4. Distribución de comunidades"
 output: revealjs::revealjs_presentation
+
 ---
 
 ```{r setup, include=FALSE}
@@ -17,7 +18,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * En contraste, la comunidad vista como unida discreta e integrada, se atribuye a **Gleason**.
 
-* Ambas corrientes hicieron aportes relevantes.
-    * Las comunidades exhiben atributos como los de un individuo ("productividad primaria total").
-    * Por otra parte 
+## Introducción (cont.)
 
+* Ambas corrientes hicieron aportes relevantes.
+    * Las comunidades exhiben **atributos como los de un individuo** ("productividad primaria total").
+    
+    * Por otra parte, las especies también varían en "ocurrencia" y abundancia **como si fuesen organismos indpendientes** unos de otros.
+
+* Climas diferentes inducen tipos de __vegetación distintos__ (zonas de vida, biomas, ecorregiones).
+
+* Ejemplo: ...
+
+## Introducción (cont.)
+
+
+
+## Comunidades y ecosistemas
+
+* Je je, tremendo lío, definiciones arbitrarias.
+
+
+## Referencias
