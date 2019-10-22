@@ -65,9 +65,84 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Cada especie tiene un nicho, y el cómo se organizan para dar lugar a asociaciones complejas entre poblaciones es el objetivo último de la ecología.
 
-* Dos rasgos son fundamentales de las especies que influyen en la comunidad son su __masa/volumen corporal__ y su __condición trófica__.
+* Dos rasgos son fundamentales de las especies que influyen en la comunidad son su __masa/volumen corporal__ y su __estado trófico o condición trófica__.
 
-* A __mayor tamaño/masa, mayor consumo__ energético. La tasa de metabolismo basal es clave ($m=cM^{0.75}$). Hay más especies de animales pequeños, y son igualmente más abundantes, que grandes. Ver figuras 5.2 y 5.3, páginas 125 y 126 de @lomolino2006biogeography.
+## Comunidades y ecosistemas (cont.)
 
+### Consideraciones energéticas (cont.)
+
+#### Masa corporal
+
+* Su influencia sobre el ecosistema es significativamente alta.
+
+* A __mayor tamaño/masa, mayor consumo__ energético. La tasa de metabolismo basal es clave ($m=cM^{0.75}$).
+
+* Hay más especies de animales pequeños, y son igualmente más abundantes, que grandes.
+
+* Las __especies grandes__ (al menos en animales), tienden a tener __ámbitos geográficos amplios__.
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas (cont.)
+
+#### Masa corporal
+
+* La __capacidad de carga__ del ambiente es limitada, por lo que los animales grandes tienden a aumente su rango para compensar esta limitación.
+
+* Ver figuras 5.2 y 5.3, páginas 125 y 126 de @lomolino2006biogeography.
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas (cont.)
+
+#### Estado trófico
+
+* Se refiere a __cómo los organismos adquieren su energía__, y es el otro rasgo que influye significativamente en la comunidad.
+
+* El tamaño corporal tiene efecto sobre el estado trófico. Los __depredadores suelen ser más grandes que su presa__, a menos que la especie realice caza en manadas.
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas (cont.)
+
+#### Estado trófico
+
+* Los organismos obtienen __su energía del sol__ (salvo contadas excepciones).
+
+* Las plantas, autótrofos, producen __compuestos orgánicos a partir de radiación solar__, dióxido de carbono, minerales y agua.
+
+* Además de usarlo en su metabolismo, las plantas producen estos compuestos para otros organismos que se alimentan de ellos, y otros organismos se alimentan de estos últimos.
+
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas (cont.)
+
+#### Estado trófico
+
+* El diseño de trayectorias unidireccionales de la energía que fluye entre especies y a través de comunidades se denominan __cadenas tróficas__. Los nodos de la misma se denominan __niveles tróficos__.
+
+* El primer nivel contiene plantas, o __productores primarios__. El segundo contiene herbívoros, o __consumidores primarios__. El tercero __carnívoros__ o consumidores, y así sucesivamente. Al final de las cadenas están los __descomponedores o detritívoros__.
+
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas (cont.)
+
+#### Estado trófico
+
+* Aunque la __energía fluye linealmente__, los trayectos que sigue la energía son muy variados. Un consumidor se alimenta comúnmnente de __varias especies__, y varios __descomponedores lo consumirán__, formando una red trófica (distintas cadenas interconectadas; ver figura 5.5, página 127 de @lomolino2006biogeography).
+* La energía fluye a través de las comunidades siguiendo la __primera__ (la energía ni se crea ni se destruye) y la __segunda ley de la termodinámica__ (a mayor conversión de la energía, menor su capacidad de producir trabajo, su caos/entropía aumenta).
+
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas (cont.)
+
+#### Estado trófico
+
+* Pirámides de flujo energético. Estados tróficos más altos disponen de menor cantidad de energía.
+
+* Capacidad de carga: energía utilizable. La capacidad de carga de un área para estados tróficos altos es baja.
 
 ## Referencias
