@@ -1,6 +1,10 @@
 ---
 title: "Tema 4. Distribución de comunidades"
-output: revealjs::revealjs_presentation
+author: José Ramón Martínez Batlle
+date: 22 de octubre de 2019
+output:
+  revealjs::revealjs_presentation:
+    transition: fade
 bibliography: biblio.bib
 csl: apa.csl
 ---
@@ -141,8 +145,210 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Estado trófico
 
+* Capacidad de carga: __energía utilizable de un hábitat__. La capacidad de carga de un hábitat para estados tróficos altos normalmente es baja.
+
 * Pirámides de flujo energético. Estados tróficos más altos disponen de menor cantidad de energía.
 
-* Capacidad de carga: energía utilizable. La capacidad de carga de un área para estados tróficos altos es baja.
+## ![](red-trofica.png)
+Tomado de @lomolino2006biogeography
+
+## ![](piramides-ecologicas-de-flujo-energetico.png)
+Tomado de @lomolino2006biogeography
+
+## Distribución de comunidades en espacio y tiempo
+
+### Patrones espaciales
+
+* Si somos capaces de identificar borde (__ecotono__) entre dos hábitat muy parecidos, teóricamente debería encontrarse una __mayor riqueza númerica de especies__ en el ecotono que en cualquiera de los hábitat que éste separa.
+
+* __Cenoclina__ (*coenocline*): patrones de distribución de comunidades a lo largo de un __gradiente ambiental o geográfico__.
+
+## ![](cenoclinas.png)
+Tomado de @lomolino2006biogeography
+
+## ![](cenoclinas-gradiente-humedad.png)
+Tomado de @lomolino2006biogeography
+
+## ![](cenoclinas-pinus-california.png)
+Tomado de @lomolino2006biogeography
+
+## <img src="gradiente-aves-martin-garcia.png"  height="60%" width="60%">
+Tomado de @franklin2019changing
+
+## ![](gradiente-altitudinal-riqueza-especies-lagartos.png)
+
+## <img src="gradiente-altitudinal-especies-arboles-cordillera-central.png"  height="35%%" width="35%">
+Tomado de @martin2007tropical
+
+## ![](cliserie-vegetacion-rca.png)
+Tomado de @camara1997republica
+
+## Patrones temporales
+
+* __Cowles, Clements y Gleason__ realizaron aportaciones que sentaron las bases de la __sucesión__.
+
+* __Sucesión__: proceso de cambio o reemplazo de especies o comunidades ecológicas enteras en el tiempo.
+
+* La sucesión es un proceso común en cualquier ecosistema. En los ecosistemas las __alteraciones pueden ser repetidas, y eliminar comunidades enteras__.
+
+##
+
+* Clements entendía que la comunidad era como un __organismo que "nace, crece, madura y muere"__. 
+
+* Propuso el concepto de "__comunidades serales__" o seras, como estadíos intermedios del ecosistema que siguen un __patrón predecible y determinista__, para converger en una __comunidad clímax__ (propuesto también por Clements) o estable con su ambiente (principalmente el factor clima), con independencia de sus condiciones de partida. 
+
+## 
+
+* Clements dominó durante mucho tiempo el concepto de sucesión y sus derivados, como son sucesión primaria y secundaria.
+
+* __Sucesión primaria__: cuando __la alteración__ (como un glaciar o una erupción volcánica) __quita suelo y materia orgánica__ (ambientes terrestres).
+
+* __Sucesión secundaria__: cuando __la alteración__ quita todos los seres vivos pero __deja indicios del ecosistema anterior__ (e.g. individuos sobrevientes, semillas).
+
+##
+
+* La __sucesión__ en ecología sigue siendo un __campo de batalla__ entre quienes estudian patrones temporales.
+
+* El debate __Clements-Gleason__ es el más temprano en una larga historia sobre cómo se produce la sucesión.
+
+* En contraposición a la visión predecible y determinista de Clements, __Gleason__ apuntó que había una __gran diversidad de etapas serales y comunidades clímax (o climácicas) alternas__.
+
+* Como corolario, Gleason señaló que la sucesión es un proceso dirigido por __interacciones entre especies y modificaciones locales producidas por la propia comunidad__.
+
+## Patrones temporales
+
+### Paleoecología
+
+* La biota regional es influenciada por __cambios climáticos, edáficos y físico-químicos en el agua__ que ocurren en el tiempo.
+
+* "Tiempo" puede abarcar desde __ayer hasta centenares de millones de años__.
+
+* El estudio del registro fósil a partir de la __paleontología__, es determinante y de uso común en estudios paleoecológicos
+
+* Los estudios con __polen y roedores__ son muy utilizados en cambios geológicos recientes.
+
+## ![](diagrama-polen-kennedy.png)
+Tomado de @kennedy20064000
+
+## Biomas terrestres
+
+## <img src="biomas-terrestres.png"  height="80%" width="80%">
+
+## ![](climografico-vegetacion-clima.png)
+Tomado de @lomolino2006biogeography
+
+## Biomas tropicales
+(ver presentación separada)
+
+* Bosque lluvioso tropical
+
+* Bosque deciduo o semideciduo tropical
+
+* Matorral xerófilo / monte espinoso
+
+* Sabana
+
+## Biomas no tropicales
+
+## <img src="biomas-terrestres.png"  height="80%" width="80%">
+
+## Biomas no tropicales
+
+* Desierto cálidos y semidesiertos:
+
+    * Ocurren en clima templado.
+    
+    * 30° a 40° N y S.
+    
+    * Menos de 250 mm de lluvia anual.
+    
+    * Déficit hídrico (mayor evaporación que precipitación).
+    
+    * Típicamente, la vegetación, cuando la hay, es dispersa y se compone de plantas suculentas.
+
+## ![](desierto.png)
+
+## Biomas no tropicales (cont.)
+
+* Monte esclerófilo:
+
+    * Ocurren en clima templado.
+    
+    * Lluvia invernal moderada pero verano seco y largo.
+    
+    * Plantas esclerófilas (hoja dura, pequeña, coriácea), y pueden existir coníferas.
+
+## ![](matorral_esclerofilo.png)
+
+## Biomas no tropicales (cont.)
+
+* Bosque siempreverde subtropical
+
+    * Ocurren en clima templado.
+    
+    * Bosques de encino(roble) y lauráceas.
+    
+    * Reciben más de 1500 mm de precipitación anual.
+    
+    * La temperatura promedio anual no puede ser de menos de 13°C, ni pueden ocurrir heladas severas.
+    
+## ![](bosque-siempre-verde-subtropical.png)
+
+## Biomas no tropicales (cont.)
+
+* Bosque templado deciduo
+
+    * Ocurren en clima templado, pero comúnmente donde hay suficiente agua durante el verano para soportar los árboles grandes.
+    
+    * Los árboles pierden la hoja desde el otoño, y permanecen sin ella en invierno; rebrotan en primavera.
+    
+    * Estos bosques varían mucho en su composición y su estructura.
+    
+    * El sotobosque puede ser muy denso y diverso.
+
+## ![](bosque-templado-deciduo.png)
+
+## Biomas no tropicales (cont.)
+
+* Bosque templado lluvioso
+
+    * 
+
+## ![](bosque-templado-lluvioso.png)
+
+## Biomas no tropicales (cont.)
+
+* Herbazales templados
+
+## ![](herbazal-templado.png)
+
+## Biomas no tropicales (cont.)
+
+* Bosque boreal (taiga)
+
+## <img src="bosque-boreal.png"  height="50%" width="50%">
+
+## Biomas no tropicales (cont.)
+
+* Tundra
+
+## ![](tundra.png)
+
+## Comunidades acuáticas
+
+## ![](regiones-biogeograficas-marinas.png)
+
+## <img src="produccion-primaria-biomasa-por-biomas.png"  height="90%" width="90%">
+
+
+
+
+
+
+
+
+
+
 
 ## Referencias
+
