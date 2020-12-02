@@ -1,7 +1,7 @@
 ---
 title: "Tema 4. Distribución de comunidades"
 author: José Ramón Martínez Batlle
-date: 22 de octubre de 2019
+date: 1 de diciembre de 2020
 output:
   revealjs::revealjs_presentation:
     transition: fade
@@ -36,12 +36,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Consultar mapas modelos idealizados, pags. 15 y 39 de @bailey2014ecoregions.
 
+* Consultar Mapa de tipos de regímenes bioclimáticos, @camara2020tbrs
+
+## ![](baileys_mar.jpg)
+Tomado de @bailey2014ecoregions
+
+## ![](baileys_tierra.jpg)
+Tomado de @bailey2014ecoregions
+
+## ![](mapa_trb_rca.jpg){width=90%}
+Tomado de @camara2020tbrs
 
 ## Comunidades y ecosistemas
 
 * Je je, __tremendo lío__, definiciones arbitrarias.
 
-* Las comunidades y los ecosistemas son los niveles de organización biótica y ecológica __más altos__, pero comúnmente se deifnen de forma arbitraria.
+* Las comunidades y los ecosistemas son los niveles de organización biótica y ecológica __más altos__, pero comúnmente se definen de forma arbitraria.
 
 ## Comunidades y ecosistemas (cont.)
 
@@ -67,9 +77,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Consideraciones energéticas
 
-* Cada especie tiene un nicho, y el cómo se organizan para dar lugar a asociaciones complejas entre poblaciones es el objetivo último de la ecología.
+* Cada __especie tiene un nicho, y el cómo se organizan__ para dar lugar a asociaciones complejas entre poblaciones, __es el objetivo último de la ecología__.
 
-* Dos rasgos son fundamentales de las especies que influyen en la comunidad son su __masa/volumen corporal__ y su __estado trófico o condición trófica__.
+* Dos rasgos fundamentales de las especies que influyen en la comunidad son su __masa/volumen corporal__ y su __estado trófico o condición trófica__.
 
 ## Comunidades y ecosistemas (cont.)
 
@@ -79,7 +89,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Su influencia sobre el ecosistema es significativamente alta.
 
-* A __mayor tamaño/masa, mayor consumo__ energético. La tasa de metabolismo basal es clave ($m=cM^{0.75}$).
+* A __mayor tamaño/masa, mayor consumo__ energético. La tasa de metabolismo basal es clave; $m=cM^{0.75}$, donde $m$ es la tasa de metabolismo basal, $M$ la masa corporal, $c$ una constante que varía entre grupos taxonómicos; el exponente $0.75$, que es la pendiente, es relativamente constante.
+
+## Comunidades y ecosistemas (cont.)
+
+### Consideraciones energéticas (cont.)
+
+#### Masa corporal
 
 * Hay más especies de animales pequeños, y son igualmente más abundantes, que grandes.
 
@@ -91,9 +107,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Masa corporal
 
-* La __capacidad de carga__ del ambiente es limitada, por lo que los animales grandes tienden a aumente su rango para compensar esta limitación.
+* La __capacidad de carga__ del ambiente es limitada, por lo que los animales grandes tienden a aumentar su rango para compensar esta limitación.
 
 * Ver figuras 5.2 y 5.3, páginas 125 y 126 de @lomolino2006biogeography.
+
+## ![](masa_corporal_metabolismo_basal_1.jpg){width=90%}
+Tomado de @lomolino2006biogeography
+
+## ![](masa_corporal_metabolismo_basal_2.jpg){width=80%}
+Tomado de @lomolino2006biogeography
 
 ## Comunidades y ecosistemas (cont.)
 
@@ -115,7 +137,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Las plantas, autótrofos, producen __compuestos orgánicos a partir de radiación solar__, dióxido de carbono, minerales y agua.
 
-* Además de usarlo en su metabolismo, las plantas producen estos compuestos para otros organismos que se alimentan de ellos, y otros organismos se alimentan de estos últimos.
+* __Además de usarlo en su metabolismo, las plantas producen estos compuestos para otros organismos__ que se alimentan de ellos, y otros organismos se alimentan de estos últimos.
 
 
 ## Comunidades y ecosistemas (cont.)
@@ -124,7 +146,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 #### Estado trófico
 
-* El diseño de trayectorias unidireccionales de la energía que fluye entre especies y a través de comunidades se denominan __cadenas tróficas__. Los nodos de la misma se denominan __niveles tróficos__.
+* El diseño de trayectorias unidireccionales de la energía que fluye entre especies y a través de comunidades se denomina __cadenas tróficas__. Los nodos de la misma se denominan __niveles tróficos__.
 
 * El primer nivel contiene plantas, o __productores primarios__. El segundo contiene herbívoros, o __consumidores primarios__. El tercero __carnívoros__ o consumidores, y así sucesivamente. Al final de las cadenas están los __descomponedores o detritívoros__.
 
