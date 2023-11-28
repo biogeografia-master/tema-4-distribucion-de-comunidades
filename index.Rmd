@@ -15,6 +15,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Introducción
 
+Definiciones, algo arbitrarias pero útiles para separar conceptos:
+
+- **Población:** Grupo de individuos de la **misma especie** que viven en un área determinada.
+- **Comunidad:** Conjunto de **poblaciones de diferentes especies** que interactúan en un área.
+- **Hábitat:** **Entorno** "natural" donde vive una especie.
+- **Ecosistema:** **Comunidad** de seres vivos **y su entorno** físico interactuando como un sistema.
+- **Bioma:** **Gran región** caracterizada por un tipo específico de clima, flora y fauna.
+
+## Introducción
+
 * **Distribución y abundancia** de una especie siempre resultan afectados por otras especies.
 
 * Debido a las interacciones entre organismos, normalmente las distribuciones de especies suelen ser **mutuamente excluyentes a escala local**, o tienden a ocurrir de forma conjunta en complejas comunidades ecológicas.
