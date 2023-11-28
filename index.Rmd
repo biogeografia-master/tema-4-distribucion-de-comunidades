@@ -1,7 +1,7 @@
 ---
 title: "Tema 4. Distribución de comunidades"
 author: José Ramón Martínez Batlle
-date: 1 de diciembre de 2020
+date: 28 de noviembre de 2023
 output:
   revealjs::revealjs_presentation:
     transition: fade
@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Las comunidades vistas como un superorganismo se atribuye a **Clements** (especies como células).
 
-* En contraste, la comunidad vista como unida discreta e integrada, se atribuye a **Gleason**.
+* En contraste, la comunidad vista como unidad discreta e integrada, se atribuye a **Gleason**.
 
 ## Introducción (cont.)
 
@@ -32,7 +32,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Climas diferentes inducen tipos de __vegetación distintos__ (zonas de vida, biomas, ecorregiones).
 
-* Ejemplo: ...
+## Introducción (cont.)
+
+* Ejemplos: ...
 
 * Consultar mapas modelos idealizados, pags. 15 y 39 de @bailey2014ecoregions.
 
@@ -199,7 +201,7 @@ Tomado de @franklin2019changing
 
 ## ![](gradiente-altitudinal-riqueza-especies-lagartos.png)
 
-## <img src="gradiente-altitudinal-especies-arboles-cordillera-central.png"  height="35%%" width="35%">
+## <img src="gradiente-altitudinal-especies-arboles-cordillera-central.png"  height="35%" width="35%">
 Tomado de @martin2007tropical
 
 ## ![](cliserie-vegetacion-rca.png)
@@ -254,7 +256,7 @@ Tomado de @kennedy20064000
 
 ## Biomas terrestres
 
-## <img src="biomas-terrestres.png"  height="80%" width="80%">
+## <img src="biomas-terrestres.png"  height="80%" width="70%">
 
 ## ![](climografico-vegetacion-clima.png)
 Tomado de @lomolino2006biogeography
@@ -272,7 +274,7 @@ Tomado de @lomolino2006biogeography
 
 ## Biomas no tropicales
 
-## <img src="biomas-terrestres.png"  height="80%" width="80%">
+## <img src="biomas-terrestres.png"  height="70%" width="70%">
 
 ## Biomas no tropicales
 
@@ -288,7 +290,7 @@ Tomado de @lomolino2006biogeography
     
     * Típicamente, la vegetación, cuando la hay, es dispersa y se compone de plantas suculentas.
 
-## ![](desierto.png)
+## ![](desierto.png){width=90%}
 
 ## Biomas no tropicales (cont.)
 
@@ -358,19 +360,9 @@ Tomado de @lomolino2006biogeography
 
 ## Comunidades acuáticas
 
-## ![](regiones-biogeograficas-marinas.png)
+## ![](regiones-biogeograficas-marinas.png){width=85%}
 
 ## <img src="produccion-primaria-biomasa-por-biomas.png"  height="90%" width="90%">
-
-
-
-
-
-
-
-
-
-
 
 ## Referencias
 
