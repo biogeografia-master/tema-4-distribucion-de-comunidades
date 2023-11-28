@@ -38,7 +38,7 @@ Definiciones, algo arbitrarias pero útiles para separar conceptos:
 * Ambas corrientes hicieron aportes relevantes.
     * Las comunidades exhiben **atributos como los de un individuo** ("productividad primaria total").
     
-    * Por otra parte, las especies también varían en "ocurrencia" y abundancia **como si fuesen organismos indpendientes** unos de otros.
+    * Por otra parte, las especies también varían en incidencia (*ocurrence*) y abundancia **como si fuesen organismos independientes** unos de otros.
 
 * Climas diferentes inducen tipos de __vegetación distintos__ (zonas de vida, biomas, ecorregiones).
 
