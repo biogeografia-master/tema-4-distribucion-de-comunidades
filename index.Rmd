@@ -1,7 +1,7 @@
 ---
-title: "Tema 4. Distribución de comunidades"
+title: "Tema 4. Distribución de comunidades<br><br>Biogeografía<br>Universidad Autónoma de Santo Domingo (UASD)<br>"
 author: José Ramón Martínez Batlle
-date: 28 de noviembre de 2023
+date: 
 output:
   revealjs::revealjs_presentation:
     transition: fade
@@ -46,9 +46,16 @@ Definiciones, algo arbitrarias pero útiles para separar conceptos:
 
 * Ejemplos: ...
 
+* Consultar ["Ecoregion"](https://en.wikipedia.org/wiki/Ecoregion), versión en inglés. Aportaciones de Dasmann (1972) y @udvardybiogeographical
+
+* Consultar Mapa de tipos de regímenes bioclimáticos, @olson1998global @olson2001terrestrial
+
 * Consultar mapas modelos idealizados, pags. 15 y 39 de @bailey2014ecoregions.
 
 * Consultar Mapa de tipos de regímenes bioclimáticos, @camara2020tbrs
+
+## ![](ecorregiones_olson_dinerstein.jpg)
+Tomado de @olson2001terrestrial
 
 ## ![](baileys_mar.jpg)
 Tomado de @bailey2014ecoregions
@@ -58,6 +65,10 @@ Tomado de @bailey2014ecoregions
 
 ## ![](mapa_trb_rca.jpg){width=90%}
 Tomado de @camara2020tbrs
+
+## Introducción (cont.)
+
+* Mencionar/mostrar Hager y Zanoni (1993), mapas de Tolentino y Peña (1998) y Cano y Cano (2014)
 
 ## Comunidades y ecosistemas
 
